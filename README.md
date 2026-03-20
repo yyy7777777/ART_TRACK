@@ -8,7 +8,7 @@ The tracker combines **adaptive interacting multiple-model motion estimation**, 
 
 ## Pipeline
 <center>
-<img src="assets/framework.pdf" width="700"/>
+<img src="assets/framework.jpg" width="700"/>
 </center>
 
 ## Dataset Overview
@@ -19,7 +19,7 @@ We introduce **SpaceAnimal-MOT**, a dataset for multi-animal tracking in microgr
 - **Long-term identity preservation** in closed-space observation chambers
 
 <center>
-<img src="assets/data.pdf" width="700"/>
+<img src="assets/data.jpg" width="700"/>
 </center>
 
 ## News
