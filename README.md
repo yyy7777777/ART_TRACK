@@ -18,6 +18,8 @@ We introduce **SpaceAnimal-MOT**, a dataset for multi-animal tracking in microgr
 - **Complex motion patterns** such as abrupt acceleration, sharp turns, and nonlinear movement
 - **Long-term identity preservation** in closed-space observation chambers
 
+**Note:** Due to data access restrictions and the nature of the space science experimental videos, **SpaceAnimal-MOT is not publicly available at this time**. This repository releases the tracking code and benchmark results only.
+
 <center>
 <img src="assets/data.jpg" width="700"/>
 </center>
